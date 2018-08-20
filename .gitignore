@@ -1,0 +1,19 @@
+.gradle
+**/build/
+
+### Package Files #
+*.jar
+!gradle-wrapper.jar
+*.war
+*.ear
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### auto generate
+.DS_Store
+.git
+
